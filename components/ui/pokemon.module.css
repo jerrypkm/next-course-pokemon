@@ -1,0 +1,11 @@
+.poke-card{
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+.poke-card img{
+    aspect-ratio: 1/1;
+}
